@@ -130,6 +130,16 @@ All implementation and final decisions were reviewed and written manually.
 
 ---
 
+## Documentantion
+
+Additional development notes, including design decision and LLM usage, are available in:
+
+```
+ docs/development-notes.pdf
+```
+
+---
+
 ## Future Improvements
 
 (Not implemented to avoid overengineering)
